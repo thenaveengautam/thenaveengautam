@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js&descAlign=50&descAlignY=60&animation=fadeIn"/>
+</p>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Naveen+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
+</div>
+
+# 💫 About Me:
+💻 Full Stack Web Developer | MERN Stack Enthusiast<br>🧩 Building interactive web apps: puzzles, expense trackers, event management, and more!<br>🛠️ Passionate about System Design and mastering Data Structures & Algorithms<br>📚 Lifelong learner exploring new tech and improving my English vocabulary<br>✈️ Avid traveler, always ready for the next adventure!<br>🚀 Open to collaboration and exciting new projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnaveen._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thenaveengautam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thenaveengautam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmnaveengautam@gmail.com) 
