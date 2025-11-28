@@ -21,16 +21,16 @@
       <br>C
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br>CSS3
+      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+      <br>CSS3
     </td>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavScript" width="65" height="65" />
@@ -43,60 +43,42 @@
   </tr>
   <tr>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width="65" height="65" alt="Tailwind CSS" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="116">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="65" height="65" alt="DigitalOcean" />
-      <br>DigitalOcean
-    </td>
-    <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
-      <br>Vercel
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
       <br>Express.js
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="Mongo DB" />
+      <br>Mongo DB
     </td>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
       <br>Vite
-    </td>
-    <td align="center" width="116">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="65" height="65" alt="Apache" />
-      <br>Apache
-    </td>
-    <td align="center" width="116">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="Mongo DB" />
-      <br>Mongo DB
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="65" height="65" alt="React Router" />
+      <br>React Router
+    </td>
+    <td align="center" width="116">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+      <br>Next.js
     </td>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -106,6 +88,38 @@
       <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
       <br>Firebase
     </td>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="116">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="65" height="65" alt="DigitalOcean" />
+      <br>DigitalOcean
+    </td>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="116">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="116">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
@@ -117,16 +131,6 @@
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
       <br>VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
     </td>
   </tr>
 </table>
