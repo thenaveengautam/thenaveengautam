@@ -43,10 +43,6 @@
   </tr>
   <tr>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=tailwindcss" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       <br>Node.js
     </td>
@@ -57,6 +53,10 @@
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="Mongo DB" />
       <br>Mongo DB
+    </td>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width="65" height="65" alt="Tailwind CSS" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
