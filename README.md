@@ -103,6 +103,10 @@
       <br>Vercel
     </td>
     <td align="center" width="116">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/render.svg" width="65" height="65" alt="Render" />
+      <br>Render
+    </td>
+    <td align="center" width="116">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="65" height="65" alt="DigitalOcean" />
       <br>DigitalOcean
     </td>
@@ -114,12 +118,12 @@
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
       <br>Nginx
     </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
       <br>Git
