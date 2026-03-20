@@ -17,8 +17,8 @@
 <table align="center">
   <tr>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="C" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="C" />
+      <br>PHP
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
