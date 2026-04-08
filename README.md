@@ -17,10 +17,6 @@
 <table align="center">
   <tr>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="C" />
-      <br>PHP
-    </td>
-    <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
       <br>C
     </td>
@@ -40,12 +36,12 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavScript" width="65" height="65" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=tailwindcss" width="65" height="65" alt="Tailwind CSS" />
       <br>Tailwind CSS
@@ -66,12 +62,12 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
       <br>Redux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
       <br>Next.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
       <br>Node.js
@@ -92,12 +88,12 @@
       <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
       <br>Nginx
     </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
@@ -118,12 +114,12 @@
       <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
       <br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="AWS" />
       <br>Azure
     </td>
+  </tr>
+  <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=googlecloud" width="65" height="65" alt="AWS" />
       <br>Google Cloud
