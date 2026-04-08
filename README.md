@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-💻 Full Stack Developer | MERN Stack Expert<br>🧩 Building interactive web apps, and more!<br>🛠️ Passionate about System Design and mastering Data Structures & Algorithms<br>📚 Lifelong learner exploring new tech and improving my English vocabulary<br>✈️ Avid traveler, always ready for the next adventure!<br>🚀 Open to collaboration and exciting new projects
+💻 Full Stack Developer | MERN Stack Expert | AI Automation Engineer<br>🧩 Crafting innovative web apps, and more!<br>🛠️ Passionate about System Design and mastering Data Structures & Algorithms<br>📚 Lifelong learner exploring new tech and improving my English vocabulary<br>✈️ Avid traveler, always ready for the next adventure!<br>🚀 Open to collaboration and exciting new projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnaveen._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thenaveengautam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thenaveengautam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmnaveengautam@gmail.com) 
